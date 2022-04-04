@@ -1,4 +1,4 @@
-# Pricing-Table---challenge
+# Pricing-Table
 It is a page developed with HTML and CSS proposed by a challenge made by Rocketseat,
 in this project, I trained my skills with HTML CSS and good responsiveness practices.
 
